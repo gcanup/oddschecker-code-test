@@ -25,6 +25,6 @@
   (As discussed in initial interview as well, TDD is in good rise these days and my first todolist is to get good understanding of it. I know how it works and have ran through it but haven't done much tests in it.)
 
 # Summary
-I managed to work in this task within my break hours and evening.
-Thus, apologize for not being able to focus for long in all improvements.
-If given chance, i really wish to make improvements and deliver all i could within the team for the growth of business.
+Test app has been developed following design principle and user acceptance. 
+Improvements and additional features are part of software development and i wish to deliver all my knowledge within the team for growth of business.
+Furthermore, i am keen to develop my carrier as well by learning from my seniors.
