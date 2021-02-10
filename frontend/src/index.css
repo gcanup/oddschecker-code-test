@@ -2,4 +2,26 @@ body {
   margin: 0;
   padding: 0;
   font-family: sans-serif;
+  background: grey;
+  text-align: center;
+  font-family: 'Open Sans';
+  letter-spacing: 2px;
+  background-image: url('../src/images/football4.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: url('./fonts/Oswald-VariableFont_wght.ttf'); /* IE9 Compat Modes */
+  src: local('Open Sans'), local('OpenSans'),
+       url('./fonts/Oswald-VariableFont_wght.ttf') format('embedded-opentype'), /* IE6-IE8 */
+       url('./fonts/Oswald-VariableFont_wght.ttf') format('woff2'), /* Super Modern Browsers */
+       url('./fonts/Oswald-VariableFont_wght.ttf') format('woff'), /* Modern Browsers */
+       url('./fonts/Oswald-VariableFont_wght.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('./fonts/Oswald-VariableFont_wght.ttf') format('svg'); /* Legacy iOS */
 }
